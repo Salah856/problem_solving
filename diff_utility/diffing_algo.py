@@ -44,6 +44,8 @@ def LCSLength(X, Y, m, n, lookup):
 				lookup[i][j] = max(lookup[i - 1][j], lookup[i][j - 1])
 
 
+
+
 if __name__ == '__main__':
 
 	X = "ABCDFGHJQZ"

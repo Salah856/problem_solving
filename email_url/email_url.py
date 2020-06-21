@@ -64,6 +64,8 @@ def emails_from_url(url: str = "https://github.com") -> list:
         # Open URL
         r = requests.get(url)
 
+
+
         # pass the raw HTML to the parser to get links
         parser.feed(r.text)
 

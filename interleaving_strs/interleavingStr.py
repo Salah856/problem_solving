@@ -10,6 +10,8 @@ def interleaved(X, Y, S):
 	if not S:
 		return False
 
+
+
 	# if X is not empty and its first character matches with
 	# first character of S, recur for remaining substring
 	if X and S[0] == X[0]:
