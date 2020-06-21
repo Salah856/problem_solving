@@ -7,7 +7,6 @@ def lcs(X, Y, m, n):
     else: 
        return max(lcs(X, Y, m, n-1), lcs(X, Y, m-1, n)); 
   
-  
 X = "ANCV"
 Y = "GUTREANCVZQ"
 print ("Length of LCS is ", lcs(X, Y, len(X), len(Y))) 
