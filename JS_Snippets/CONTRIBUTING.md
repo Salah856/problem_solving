@@ -14,6 +14,8 @@ This will allow you to use our customized tools for all of our content repositor
 
 ## How you can help
 
+
+
 - Submit pull requests with new snippets (see guidelines below) or snippet updates (tags, descriptions, explanations, typos, examples, code improvements).
 - Open issues for things you want to see added, modified, discuss ideas or help out with existing issues. 
 

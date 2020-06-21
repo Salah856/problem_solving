@@ -19,6 +19,9 @@ const bindAll = (obj, ...fns) =>
   );
 ```
 
+
+
+
 ```js
 var view = {
   label: 'docs',
