@@ -18,6 +18,8 @@ const reducedFilter = (data, keys, fn) =>
   );
 ```
 
+
+
 ```js
 const data = [
   {
