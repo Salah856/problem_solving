@@ -7,8 +7,10 @@ const romanHash = {
   D: 500,
   M: 1000,
 };
+
 const s = "MCMLXXXIX";
-// s = 1989
+
+
 function romanToInt(s) {
   let accumulator = 0;
 for (let i = 0; i < s.length; i++) {
